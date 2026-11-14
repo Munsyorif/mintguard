@@ -17,8 +17,7 @@ Built for the [Agent Games](https://agentgames.zkverify.io/) Wildcard track
 (2026 season, closes 21 Nov 2026).
 
 - **Repo:** https://github.com/Munsyorif/mintguard
-- **Live demo:** deploy `worker.js` to Cloudflare Workers (see below) — the
-  root page (`GET /`) is a small demo form.
+- **Live demo:** https://bold-union-ca37.munsyorifaji.workers.dev/
 - **Test evidence:** [`demo.md`](demo.md) — real recorded outputs, 34/34 checks pass.
 
 ## Who it helps
