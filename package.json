@@ -1,0 +1,1 @@
+{"description":"MintGuard — read-only BSC mint/claim verification agent (Cloudflare Worker, zero dependencies)","license":"MIT","name":"mintguard","scripts":{"test":"node test-verify.mjs"},"type":"module","version":"1.0.0"}
